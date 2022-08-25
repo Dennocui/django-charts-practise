@@ -38,8 +38,11 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
 
-    "chartjs",
+
     "rest_framework",
+
+    "chartjs",
+    "stats",
 ]
 
 MIDDLEWARE = [
